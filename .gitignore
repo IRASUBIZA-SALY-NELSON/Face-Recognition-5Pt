@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+models/*.onnx
+data/enroll/
+data/db/
+*.png
+config.bat
+node_modules
